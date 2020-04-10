@@ -121,8 +121,8 @@ overflow: hidden; white-space: nowrap; max-width: 150px; }
 .modal_footer { display: flex; align-items: center; justify-content: space-between; } 
 .footer_buttons { display: flex; align-items: center; } 
 .modal_body { margin-bottom: 52px; } 
-.price_tag { background: #262626; border-radius: 5px; color: #FFFFFF; padding: 15px 20px; width: 106px; height: 53.49px; font-size: 20px; line-height: 23px; /* ./MODAL */
-/* ====== MEDIA ======== */
+.price_tag { background: #262626; border-radius: 5px; color: #FFFFFF; padding: 15px 20px; width: 106px; height: 53.49px; font-size: 20px; line-height: 23px;}
+/* MEDIA */
 @media (max-width: 1366px){
  .container { max-width: 960px; } 
  .promo { background-position: center right -300px; background-size: 750px; } 
